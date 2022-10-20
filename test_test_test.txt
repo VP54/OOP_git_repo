@@ -1,0 +1,14 @@
+import numpy as np
+import json
+import pandas as pd
+import requests
+
+
+class absolutely_useless_but_great_class: 
+	def __init__():
+	    print("init arguments are for slackers")
+	
+	@classmethod
+	def lets_alter_my_non_existent_class_arguments(x):
+	    
+    	    print(cls(x))

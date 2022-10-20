@@ -1,0 +1,13 @@
+WITH table as (
+
+SELECT *
+FROM (
+	SELECT DISTINCT people
+	FROM people_table
+	HAVING ...
+)
+GROUP BY .
+ORDER BY
+)
+
+--SOME veri much bjutifl common table expression
