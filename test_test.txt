@@ -10,4 +10,4 @@ GROUP BY .
 ORDER BY
 )
 
---SOME veri much bjutifl common table expression
+--SOME very much bjutifl common table expression
