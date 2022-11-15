@@ -3,3 +3,7 @@ from typing import Optional, List
 def return_multiplied_optional_list(arg: Optional[List] = None, mult: float) -> List:
 
   return [x * mult for x in arg]
+
+
+def new_fucn():
+  return (sum(x) for x in xx)
