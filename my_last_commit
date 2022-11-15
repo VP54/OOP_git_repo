@@ -7,3 +7,7 @@ def return_multiplied_optional_list(arg: Optional[List] = None, mult: float) -> 
 
 def new_fucn():
   return (sum(x) for x in xx)
+
+
+def print_val(val: str):
+  print(val)
