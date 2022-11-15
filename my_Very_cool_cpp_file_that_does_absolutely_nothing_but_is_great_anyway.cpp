@@ -52,6 +52,19 @@ void vytvor_soubor(std::vector<int> vektor ){
     }
 }
 
+std::vector< tuple<int, double, int>> create_tuple(){
+    int cislo;
+    double necislo_cislo;
+    int jine_cislo;
+    std::vector< tuple<int, double, int>> tup;
+    
+    tup.push_back(make_tuple(cislo));
+    tup.push_back(make_tuple(necislo_cislo));
+    tup.push_back(make_tuple(jine_cislo));
+    
+    return tup
+}
+
 int main(){
     // Zadefinuju si promenne
     std::vector<int> vektor;
