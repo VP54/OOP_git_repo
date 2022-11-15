@@ -11,3 +11,7 @@ def new_fucn():
 
 def print_val(val: str):
   print(val)
+
+def print_vals(*vals):
+  
+  (print(val) for val in vals)
