@@ -12,3 +12,6 @@ class absolutely_useless_but_great_class:
 	def lets_alter_my_non_existent_class_arguments(x):
 	    
     	    print(cls(x))
+	
+	@staticmethod
+	def get_cool_method(df, df, df):
